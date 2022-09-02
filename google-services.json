@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817130066167",
+    "project_id": "gap-app-f0809",
+    "storage_bucket": "gap-app-f0809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817130066167:android:0c8555e413d0ee97e603f2",
+        "android_client_info": {
+          "package_name": "com.reotech.gap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817130066167-v4q41b61vtsuvr0qd41uhq07bnph0hs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD6GRFfD25Z9KvDNJO69RecHPwsQE9ZuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817130066167-v4q41b61vtsuvr0qd41uhq07bnph0hs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

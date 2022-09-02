@@ -1,0 +1,15 @@
+export default {
+  // primary: "#E5293E",
+  primary: "#3F8DFD",
+  secondary: "#272727",
+  appBackground: "#121212",
+  white: "#fff",
+  // blue: "#3F8DFD",
+  black: "#000",
+  mediumGray: "#6e6969",
+  mildGray: "#9e9e9e",
+  lightGray: "#f8f4f4",
+  midGray: "#eee",
+  dark: "#0c0c0c",
+  danger: "#ff5252",
+};

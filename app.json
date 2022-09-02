@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "Yimiwi",
-    "slug": "Yimiwi",
+    "name": "GAP",
+    "slug": "GAP",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#161819"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -20,13 +20,19 @@
       "supportsTablet": true
     },
     "android": {
+      "permissions": ["CAMERA", "READ_CALENDAR", "WRITE_CALENDAR", "USE_FINGERPRINT", "USE_BIOMETRIC", "WRITE_SETTINGS", "READ_EXTERNAL_STORAGE", "WRITE_EXTERNAL_STORAGE"],
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "versionCode": 3,
+      "package": "com.reotech.gap"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/icon.png"
+    },
+
+    "description": "an app for improving the learning process of youth"
   }
 }
